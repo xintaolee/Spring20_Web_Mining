@@ -2,6 +2,15 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.ipynb_checkpoints
+
+# Data stuff
+data_out/
+data_sets/
+img/
+*.html
+*.xlsx
+*.xls
 
 # C extensions
 *.so
